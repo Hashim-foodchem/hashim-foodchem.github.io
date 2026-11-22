@@ -27,6 +27,14 @@ My training and research span several countries, which has shaped how I approach
 - Plant-based and fermented proteins (yeast, faba bean, pea, soy)
 - Rheology and techno-functional properties of food structures
 - Encapsulation and delivery of bioactive compounds
+- Enzyme isolation and characterization (aspartic proteases): extraction, purification, identification and activity quantification
+
+## Methods and expertise
+Protein and enzyme extraction, purification, identification and activity assays - 
+Rheological, textural and microstructural characterization of food systems -
+Techno-functional properties of proteins (gelation, hydration, particle size) - 
+Microencapsulation, in vitro release and bioaccessibility studies - 
+Experimental design and statistical data analysis
 
 ## About this site
 
