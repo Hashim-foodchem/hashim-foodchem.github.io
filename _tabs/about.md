@@ -18,7 +18,7 @@ My training and research span several countries, which has shaped how I approach
 - **Egypt:** MSc in food science (dairy technology), Kafrelsheikh University.
 - **Russia:** PhD in food engineering, ITMO University, on encapsulated date seed bioactive compounds in non-fat yogurt.
 - **Finland:** postdoctoral research in food science at the University of Helsinki, on protein functionality, fermentation and plant-based foods.
-- **International collaboration:** research collaboration with South Dakota State University (USA) and [Turkish university name].
+- **International collaboration:** research collaboration with South Dakota State University (USA) and Istanbul Technical University (Türkiye).
 
 ## Research interests
 
