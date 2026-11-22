@@ -17,7 +17,7 @@ order: 5
 # Book chapters
 1. Nadtochii, L., Proskura, A., Muradova, M., Hashim, M.A., Neiers, F. (2022). Review on correlations between depression and nutritional status of elderly patients. In: Herbal Medicines, pp. 17-37. https://doi.org/10.1016/B978-0-323-90572-5.00011-1
 # Theses
-1. Hashim, M.A. (2023). Resource-saving technology of non-fat yogurt enriched with encapsulated date seeds bioactive compounds. PhD thesis, ITMO University. Link
+1. Hashim, M.A. (2023). Resource-saving technology of non-fat yogurt enriched with encapsulated date seeds bioactive compounds. PhD thesis, ITMO University. https://dissovet.itmo.ru/dissertation/en/?number=915916 
 2. Hashim, M.A. (2016). The effect of using whey protein concentrate on the quality of fresh cheese. Master's thesis, Kafrelsheikh University.
 # In preparation
 - Ice-structuring proteins (ISP) from wheat bran to improve frozen dough and bread quality.
