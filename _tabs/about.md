@@ -1,12 +1,4 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+
 ---
 
 I am a food scientist with a PhD in food engineering. My research focuses on dairy and plant-based proteins, fermentation, encapsulation of bioactive compounds, and the rheological and techno-functional properties of food systems.
