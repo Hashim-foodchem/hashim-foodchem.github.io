@@ -4,8 +4,6 @@ title: About
 icon: fas fa-info-circle
 order: 1
 ---
-About
----
 I am a food scientist with a PhD in food engineering. My research focuses on dairy and plant-based proteins, fermentation, encapsulation of bioactive compounds, and the rheological and techno-functional properties of food systems.
 
 ## An international path
