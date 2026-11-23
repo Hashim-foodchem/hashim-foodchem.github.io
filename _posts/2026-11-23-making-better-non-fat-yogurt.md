@@ -4,6 +4,15 @@ date: 2026-11-23 08:00:00 +0200
 categories: [Research]
 tags: [dairy proteins, protein functionality, gelation]
 ---
+title: "Making Better Non-Fat Yogurt: How Whey Proteins Improve Texture"
+date: 2026-11-23 08:00:00 +0200
+categories: [Research]
+tags: [dairy proteins, protein functionality, gelation]
+image:
+  path: /assets/img/posts/yogurt-preview.jpg
+  alt: Non-fat yogurt with whey protein isolate
+---
+---
 
 Yogurt is one of the most widely consumed fermented dairy products. Its creamy texture, pleasant acidity, and nutritional value make it a popular part of many diets. However, producing a high-quality non-fat yogurt is not as simple as removing fat from milk.
 
