@@ -2,7 +2,7 @@
 layout: page
 title: About
 icon: fas fa-info-circle
-order: 1
+order: 5
 ---
 I am a food scientist with a PhD in food engineering. My research focuses on dairy and plant-based proteins, fermentation, encapsulation of bioactive compounds, and the rheological and techno-functional properties of food systems.
 
@@ -36,9 +36,10 @@ Experimental design and statistical data analysis
 Here I share my [publications](/publications/), teaching materials, and short notes on new developments in food science. Comments and questions are welcome on every post.
 
 ## Contact
-- Email: mahmood.hashem@gmail.com
-- Orcid: https://orcid.org/0000-0001-5619-7162
-- Google Scholar: https://scholar.google.com/citations?hl=en&user=qqKJUNcAAAAJ
+
+- Email: [mahmood.hashem@gmail.com](mailto:mahmood.hashem@gmail.com)
+- ORCID: [0000-0001-5619-7162](https://orcid.org/0000-0001-5619-7162)
+- Google Scholar: [Mahmood's profile](https://scholar.google.com/citations?hl=en&user=qqKJUNcAAAAJ)
 
 I am open to research collaboration and new opportunities in food science and technology.
 
