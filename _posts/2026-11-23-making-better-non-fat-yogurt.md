@@ -52,7 +52,8 @@ Its technological advantages include:
 Importantly, whey proteins do not literally replace the physical role of fat globules. Instead, they can help compensate for some of the textural changes associated with fat removal.
 
 ## What Did We Investigate?
-
+![Microstructure of non-fat yogurt with and without WPI](/assets/img/posts/yogurt-microstructure.jpg){: w="700" h="400" }
+_Microstructure of yogurt gels. Image source: Hashim et al. (2021), Foods._
 In our published study, we prepared set-style yogurt using skim milk powder and whey protein isolate.
 
 The experimental formulations were standardized to 14% total solids. We replaced different proportions of skim milk powder with WPI at levels of 3%, 5%, 7%, and 9%.
