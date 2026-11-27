@@ -18,17 +18,15 @@ title: "Mahmood Hashim | Food Science & Innovation"
 tagline: "Food Scientist | Researcher | Food Technology & Innovation"
 
 description: >-
-  Personal academic website of Dr. Mahmood Hashim,
-  a food scientist and researcher specializing in
-  food proteins, food structure, dairy and plant-based
-  products, food processing, and sustainable food innovation.
+  Personal academic website of Dr. Mahmood Hashim, a food scientist and researcher specializing in
+  food proteins, food structure, dairy and plant-based products, food processing, and sustainable food innovation.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://hashim-foodchem.github.io"
 
 github:
-  username: Hashim-foodchem # change to your GitHub username
+  username: Hashimfoodtech # change to your GitHub username
 
 social:
   # Change to your full name.
